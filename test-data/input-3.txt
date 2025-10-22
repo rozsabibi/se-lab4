@@ -1,0 +1,4 @@
+GT4500,2,0.0,0,0.0  # S üres, P nem üres
+TORPEDO,SINGLE      # 1. hívás → P
+TORPEDO,SINGLE      # 2. hívásnál S lenne soron, de üres → P-vel lő
+EXIT

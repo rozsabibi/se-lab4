@@ -1,0 +1,5 @@
+GT4500,3,0.0,1,0.0
+TORPEDO,SINGLE      # 1. → P (P:2,S:1 marad)
+TORPEDO,SINGLE      # 2. → S (S elfogy:0)
+TORPEDO,SINGLE      # 3. → S lenne soron, de üres → P lő
+EXIT
