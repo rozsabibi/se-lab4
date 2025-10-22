@@ -1,0 +1,5 @@
+GT4500,2,0.0,2,0.0
+TORPEDO,SINGLE      # 1) elsőre P lő
+TORPEDO,ALL         # 2) P és S is megpróbálja, de NEM írja felül a „ki volt utoljára” állapotot
+TORPEDO,SINGLE      # 3) itt a soron következő S
+EXIT

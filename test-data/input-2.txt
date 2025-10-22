@@ -1,0 +1,4 @@
+GT4500,2,0.0,2,0.0
+TORPEDO,SINGLE      # 1. hívás → P
+TORPEDO,SINGLE      # 2. hívás → S
+EXIT

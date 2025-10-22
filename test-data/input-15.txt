@@ -1,0 +1,4 @@
+GT4500,1,0.0,1,1.0
+TORPEDO,SINGLE      # 1P lő és sikeres → wasPrimaryFiredLast = true
+TORPEDO,SINGLE      # 2 S lenne soron, de fail rate = 1.0 → FAIL; P-t NEM próbálja
+EXIT
